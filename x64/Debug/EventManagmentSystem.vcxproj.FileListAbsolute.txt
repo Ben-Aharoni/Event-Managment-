@@ -1,0 +1,2 @@
+C:\Users\USER\OneDrive\שולחן העבודה\VisualStudio\EventManagmentSystem\x64\Debug\EventManagmentSystem.exe
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\x64\Debug\EventManagmentSystem.exe

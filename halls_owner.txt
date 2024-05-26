@@ -1,0 +1,12 @@
+BEN
+2
+terminal
+300
+tel aviv
+ben goriun 5
+1
+troya
+200
+natanya
+hazait 4
+2

@@ -1,0 +1,67 @@
+﻿  Acountent.c
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventHallsOwner.h(24,52): warning C4028: formal parameter 1 different from declaration
+  (compiling source file 'Acountent.c')
+  
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Acountent.c(149,14): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Acountent.c(233,37): warning C4047: 'function': 'Invoice *' differs in levels of indirection from 'Invoice **'
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Acountent.c(233,37): warning C4024: 'loadInvoiceFromBinFile': different types for formal and actual parameter 1
+  Address.c
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Address.c(36,2): warning C4013: 'free' undefined; assuming extern returning int
+  Date.c
+  Event.c
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventHallsOwner.h(24,52): warning C4028: formal parameter 1 different from declaration
+  (compiling source file 'Event.c')
+  
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Event.c(7,19): warning C4133: 'function': incompatible types - from 'NODE *' to 'const LIST *'
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Event.c(29,15): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Event.c(55,25): warning C4090: 'function': different 'const' qualifiers
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Event.c(61,16): warning C4090: 'function': different 'const' qualifiers
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Event.c(70,2): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Event.c(127,17): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Event.c(185,43): warning C4090: 'function': different 'const' qualifiers
+  EventHall.c
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventHall.c(42,9): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventHall.c(57,15): warning C4047: '=': 'int' differs in levels of indirection from 'char *'
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventHall.c(76,53): warning C4020: 'saveAddressToBinFile': too many actual parameters
+  EventHallsOwner.c
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventHallsOwner.h(24,52): warning C4028: formal parameter 1 different from declaration
+  (compiling source file 'EventHallsOwner.c')
+  
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventHallsOwner.c(130,21): warning C4090: 'function': different 'const' qualifiers
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventHallsOwner.c(136,19): warning C4090: 'function': different 'const' qualifiers
+  EventManager.c
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventHallsOwner.h(24,52): warning C4028: formal parameter 1 different from declaration
+  (compiling source file 'EventManager.c')
+  
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventManager.c(30,9): warning C4047: 'function': 'LIST *' differs in levels of indirection from 'Event ***'
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventManager.c(30,9): warning C4024: 'L_free': different types for formal and actual parameter 1
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventManager.c(30,30): warning C4113: 'void (__cdecl *)(Event **,int)' differs in parameter lists from 'void (__cdecl *)(void *)'
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventManager.c(31,9): warning C4047: 'function': 'LIST *' differs in levels of indirection from 'Worker **'
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventManager.c(31,9): warning C4024: 'L_free': different types for formal and actual parameter 1
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventManager.c(31,32): warning C4113: 'void (__cdecl *)(Worker *,int)' differs in parameter lists from 'void (__cdecl *)(void *)'
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventManager.c(136,9): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'int *'
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventManager.c(177,26): warning C4090: 'function': different 'const' qualifiers
+  file.c
+  General.c
+  List.c
+  main.c
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventHallsOwner.h(24,52): warning C4028: formal parameter 1 different from declaration
+  (compiling source file 'main.c')
+  
+  Invoice.c
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventHallsOwner.h(24,52): warning C4028: formal parameter 1 different from declaration
+  (compiling source file 'Invoice.c')
+  
+  Worker.c
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Worker.c(108,19): warning C4293: '>>': shift count negative or too big, undefined behavior
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Worker.c(109,20): warning C4293: '>>': shift count negative or too big, undefined behavior
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Worker.c(123,84): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Worker.c(123,111): warning C4293: '<<': shift count negative or too big, undefined behavior
+  Generating Code...
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Worker.c(74): warning C4715: 'getWorkerByID': not all control paths return a value
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\EventManager.c(14): warning C4716: 'InItManager': must return a value
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Event.c(102): warning C4716: 'setEventHallToEvent': must return a value
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Event.c(97): warning C4716: 'isEventFromNameEventHall': must return a value
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Address.c(85): warning C4715: 'readAddressFromBinFile': not all control paths return a value
+C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\Acountent.c(9): warning C4716: 'InItAcountent': must return a value
+  EventManagmentSystem.vcxproj -> C:\Users\amith\OneDrive\שולחן העבודה\system programing\EventManagmentSystem\x64\Debug\EventManagmentSystem.exe

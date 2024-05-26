@@ -1,0 +1,25 @@
+2
+avi
+10000
+250
+0
+12
+12
+2025
+terminal
+300
+tel aviv
+ben goriun 5
+1
+yossi
+25000
+195
+1
+12
+12
+2026
+troya
+200
+natanya
+hazait 4
+2
